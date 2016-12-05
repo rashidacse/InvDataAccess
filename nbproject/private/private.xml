@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/com/inventory/db/repositories/Product.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/com/inventory/db/query/helper/QueryManager.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/com/inventory/db/manager/ProductManager.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/com/inventory/db/manager/SupplierManager.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/com/inventory/db/Database.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/com/inventory/db/query/helper/EasyStatement.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/test/org/inventory/db/SupplierManagerTest.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/test/org/inventory/db/ProductManagerTest.java</file>
+            <file>file:/home/sampanit/Desktop/InvDataAccess/src/dbquery.properties</file>
+        </group>
+    </open-files>
+</project-private>
